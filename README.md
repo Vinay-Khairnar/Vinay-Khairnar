@@ -6,7 +6,7 @@
 
 - 💬 Ask me about **MERN Stack**
 
-- 📫 How to reach me **vinaykhairnar9404@gmail.com**
+- 📫 [PORTFOLIO](https://vinay-khairnar.github.io/portfolio/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
