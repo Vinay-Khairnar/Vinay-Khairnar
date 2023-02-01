@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Vinay Khairnar</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+
+<h3 align="center">An Aspiring and Self - Motivated Full Stack
+Web Developer with Problem solving
+mindset and ability to perform well in
+collaboration..</h3>
 
 
 - 🌱 I’m currently learning **Next.js**
